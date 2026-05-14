@@ -1,4 +1,4 @@
-# Discourse Hide Votes Left
+# Hide Votes Left
 
 A minimal Discourse theme component that hides the **"You have X/Y votes left"** row from the topic voting dropdown menu.
 
