@@ -1,3 +1,4 @@
-.topic-voting-menu__votes-left {
+// Hide "You have X/Y votes left" row — identified by .see-votes on the anchor
+li:has(a.see-votes) {
   display: none !important;
 }
